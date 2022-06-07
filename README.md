@@ -1,6 +1,9 @@
 # dog-ratings-analysis
 I reveal some interesting insights into dog ratings by Twitter user @dog_rates
 
+# Project Background
+Twitter user @dog_rates is a popular twitter user that rates pictures of dogs and awards a score based on their unique rating system. The rating goes from 7 to 15 out of 10. dog_rates gave their tweets archive to Udacity. My goal here is to derive some insights into the ratings and reveal some key insights into their past ratings. 
+
 ## Insights from my analysis:
 
 1. Top 10 Highest rated dog breeds on average: For this insight, I only considered dog breeds with at least 20 ratings, Then I found the average of those ratings. I used a vertical bar chart to visualize the result obtained
